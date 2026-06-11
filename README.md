@@ -8,7 +8,7 @@ https://beautyglowsalon.lovable.app/
 
 ## Demo Video
 
-https://drive.google.com/file/d/1zbEVqwXWtwDYVDA0wWloN9DO_BkwpxE1/view?usp=drive_link
+https://drive.google.com/file/d/1zbEVqwXWtwDYVDA0wWloN9DO_BkwpxE1/view?usp=sharing
 
 ## Project Files
 
